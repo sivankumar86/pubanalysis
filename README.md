@@ -3,8 +3,8 @@ pub analysis in England
 
 
 # Prerequisites,
- - Upload the input data to s3 bucket
- - Install AWS cli
+ - Upload  input data to s3 bucket
+ - Install AWS cli in your local
  - Upload python script to s3
  
 
